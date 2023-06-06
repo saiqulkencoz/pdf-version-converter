@@ -1,3 +1,6 @@
+# NOTE Sai
+Cek src/Converter/GhostscriptConverterCommand.php untuk perubahan pada base commandnya.
+
 # PDF version converter 
 PHP library for converting the version of PDF files (for compatibility purposes).
 
